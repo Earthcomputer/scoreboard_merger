@@ -1,0 +1,9 @@
+[package]
+name = "scoreboard_merger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+fastnbt = "2.3.2"
+flate2 = "1.0.25"
